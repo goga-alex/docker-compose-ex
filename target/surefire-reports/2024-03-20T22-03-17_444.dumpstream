@@ -1,4 +1,4 @@
-# Created at 2024-03-20T20:49:18.603
+# Created at 2024-03-20T22:03:18.040
 Boot Manifest-JAR contains absolute paths in classpath 'D:\dev\GitHub\docker-compose-ex\docker-compose-ex\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
